@@ -1,0 +1,15 @@
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\bin\Release\net5.0\ApplicationCore.deps.json
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\bin\Release\net5.0\ApplicationCore.dll
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\bin\Release\net5.0\ref\ApplicationCore.dll
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\bin\Release\net5.0\ApplicationCore.pdb
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\bin\Release\net5.0\BlazorShared.dll
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\bin\Release\net5.0\BlazorShared.pdb
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\obj\Release\net5.0\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\obj\Release\net5.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\obj\Release\net5.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\obj\Release\net5.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\obj\Release\net5.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\obj\Release\net5.0\ApplicationCore.csproj.CopyComplete
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\obj\Release\net5.0\ApplicationCore.dll
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\obj\Release\net5.0\ref\ApplicationCore.dll
+C:\Users\mcanenes\Source\Repos\eShopOnWeb1\src\ApplicationCore\obj\Release\net5.0\ApplicationCore.pdb
